@@ -1,3 +1,3 @@
-certifi==2022.12.7
+certifi==2023.7.22
 pyproj==3.3.1
 -e git+https://github.com/pydcs/dcs@e7ed9061187f7c2cb6719ae757bf91e9cfb85441#egg=pydcs
